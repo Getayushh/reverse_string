@@ -20,6 +20,8 @@ int main(){
       j--;
     }
     printf("reversed string: ");
+    
     printf("%s",str);
+    printf("program ends");
     return 0;
 }
